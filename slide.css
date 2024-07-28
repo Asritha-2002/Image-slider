@@ -1,0 +1,36 @@
+#back{
+   
+ position:  absolute;
+ margin-top: 5rem;
+ margin-left: 27.6rem;
+
+}
+#back:hover{
+    background-color: hsl(33, 100%, 88%);
+    border: none;
+    color:black;
+    font-weight: bold;
+}
+#forward:hover{
+    background-color: hsl(33, 100%, 88%);
+    border: none;
+    color:black;
+    font-weight: bold;
+}
+#forward{
+  
+    position:  absolute;
+ margin-top: 5rem;
+ margin-left: -1.3rem;
+}
+#image{
+   align-items: center;
+   text-align: center;
+  margin-left: 27.5rem;
+  border-radius: 0.2rem;
+  width: 20rem;
+  height: 12rem;
+}
+h1{
+    text-align: center;
+}
